@@ -1,6 +1,6 @@
 {
     "name": "laravel-shield/skeleton",
-    "description": "A skeleton project.",
+    "description": "A facebook messenger service for shield",
     "type": "library",
     "license": "MIT",
     "authors": [
