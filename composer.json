@@ -17,12 +17,13 @@
     },
     "autoload": {
         "psr-4": {
-            "Shield\\Skeleton\\": "src/"
+            "Shield\\FacebookMessenger\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Shield\\Skeleton\\Test\\": "tests/"
+            "Shield\\FacebookMessenger\\Test\\": "tests/"
         }
     }
 }
+composer
