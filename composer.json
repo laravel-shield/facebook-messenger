@@ -1,5 +1,5 @@
 {
-    "name": "laravel-shield/skeleton",
+    "name": "laravel-shield/facebook-messenger",
     "description": "A facebook messenger service for shield",
     "type": "library",
     "license": "MIT",
